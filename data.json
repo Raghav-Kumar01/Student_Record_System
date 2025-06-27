@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Raghav kumar",
+        "Class": "13th",
+        "Roll no.": 1,
+        "Marks in physics:": 23,
+        "Marks in Chemistry:": 78,
+        "Marks in Maths:": 56,
+        "Average:": null
+    },
+    {
+        "Name": "Shivam kumar",
+        "Class": "10th",
+        "Roll no.": 2,
+        "Marks in physics:": 23,
+        "Marks in Chemistry:": 89,
+        "Marks in Maths:": 56,
+        "Average:": 56.0
+    },
+    {
+        "Name": "Rahul",
+        "Class": "15th",
+        "Roll no.": 3,
+        "Marks in physics:": 67,
+        "Marks in Chemistry:": 45,
+        "Marks in Maths:": 98,
+        "Average:": 70.0
+    },
+    {
+        "Name": "Subham singh",
+        "Class": "12th",
+        "Roll no.": 4,
+        "Marks in physics:": 56,
+        "Marks in Chemistry:": 87,
+        "Marks in Maths:": 67,
+        "Average:": 70.0
+    }
+]
